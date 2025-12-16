@@ -26,3 +26,4 @@ A Lei de Morgan no contexto da lógica estabelece que a negação de uma conjun�
 
 Ademais, também foram repassados os seguintes temas
 - Lei da dupla negação: Negar uma negação retorna à proposição original. 
+- Argumento: é formado por premissas que sustentam uma conclusão. A validade depende da forma lógica, não do conteúdo. 
