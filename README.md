@@ -20,7 +20,7 @@ Essa aula abordou temas como: conectivos lógicos, tabela verdade e introdução
 - Equivalência lógica (⇔): As variáveis são equivalentes se a relação entre elas forem tautologia.
 
 # Aula 03 de Raciocínio Lógico - Leis da lógica e argumentos que brilham
-A aula iniciou-se com um breve resumo sobre conceitos aplicados no raciocínio lógico e revisar como eles podem serr aplicados no desenvolvimento de um código, tais como negação, conjunção, disjunção, implicação e bicondicional.
+A aula iniciou-se com um breve resumo sobre conceitos aplicados no raciocínio lógico e revisar como eles podem ser aplicados no desenvolvimento de um código, tais como negação, conjunção, disjunção, implicação e bicondicional.
 Ao decorrer da aula, também foi introduzida a Lei de Morgan:
 - Definição: Consiste em mostrar como a negação de uma conjunção vira uma disjunção de negações, e vice-versa. Por exemplo, "não é verdade que João e Maria foram" é equivalente a "João não foi ou Maria não foi".
 A Lei de Morgan no contexto da lógica estabelece que a negação de uma conjunção vira uma disjunção de negações.
