@@ -8,5 +8,12 @@ Essa aula foi essencial para a recordação de conceitos básicos da lógica de 
 
 # Aula 02 - Raciocínio Lógico, Plot Twists Lógicos
 Essa aula abordou temas como: conectivos lógicos, tabela verdade e introdução à lógica. No contexto dos conectivos lógicos, eles foram aplicados em pequenos exercícios para pôr em prática os conhecimentos adquiridos ao decorrer da aula, facilitando o processo de aprendizagem. Ao transcorrer da aula, foram introduzidos novos conetivos como implicação e bicondicional.
-- Implicação: condicional ("se... então"): torna-se falsa apenas quando a segunda variável é falsa. Caso contrário, é verdadeira.
-- Bicondicional: condicional ("se e somente se"): é verdadeira quando as duas variáveis possuem o mesmo valor lógico
+
+# Conectivos lógicos:
+- Implicação (→): condicional ("se... então"): Torna-se falsa apenas quando a segunda variável é falsa. Caso contrário, é verdadeira.
+- Bicondicional (↔): condicional ("se e somente se"): É verdadeira quando as duas variáveis possuem o mesmo valor lógico.
+
+# Introdução à lógica:
+- Tautologia (¬): Sempre verdadeira, independentemente dos valores das variáveis.
+- Contigência: Às vezes verdadeira, às vezes falsa
+- Equivalência lógica (⇔): As variáveis são equivalentes se a relação entre elas forem tautologia
