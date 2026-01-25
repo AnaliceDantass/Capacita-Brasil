@@ -29,4 +29,4 @@ Ademais, também foram repassados os seguintes temas
 - Argumento: é formado por premissas que sustentam uma conclusão. A validade depende da forma lógica, não do conteúdo. 
 
 # Atualmente, em 2026.
-Demos início às primeiras atividades de desenvolvimento em nuvem, onde estamos aplicando o nosso conhecimento teórico — esse sendo repassado na plataforma Homero, onde participamos do módulo básico de Provimento de Serviços Computacionais — em atividades práticas tanto no Homero por meio de quizzes quanto no Google Classroom, por meio de atividades e projetos práticos.
+Demos início às primeiras atividades de desenvolvimento em nuvem, onde estamos aplicando o nosso conhecimento teórico — esse sendo repassado na plataforma Homero, onde participamos do módulo básico de Provimento de Serviços Computacionais — em atividades práticas tanto no Homero, por meio de quizzes, quanto no Google Classroom, por meio de atividades e projetos práticos.
