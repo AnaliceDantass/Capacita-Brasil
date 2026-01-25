@@ -1,6 +1,6 @@
 # Capacita Brasil
 
-Esse repositório foi feito com o objetivo de organizar e armazenar minhas atividades práticas voltadas ao Programa Capacita Brasil. Participei da turma 14 da Trilha de Provimento de Serviços Computacionais (PSC) visando aprimorar os meus conhecimentos técnicos acerca da área de Tecnoloia da Informação e Comunicação e aprender mais sobre serviços computacionais ao aplicar ferramentas utilizadas no desenvolvimento em nuvem.
+Esse repositório foi feito com o objetivo de organizar e armazenar minhas atividades práticas voltadas ao Programa Capacita Brasil. Sou aluna da turma 14 da Trilha de Provimento de Serviços Computacionais (PSC) visando aprimorar os meus conhecimentos técnicos acerca da área de Tecnoloia da Informação e Comunicação e aprender mais sobre serviços computacionais ao aplicar ferramentas utilizadas no desenvolvimento em nuvem.
 Ao transcorrer da trilha de conhecimento pude recordar conceitos básicos como a lógica de programação, e consolidar meus conhecimentos acerca do desenvolvimento em nuvem, além de demais habilidades adquiridas ao decorrer do programa. 
 
 # Aula 01 de Raciocínio Lógico - Trilha PSC
